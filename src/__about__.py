@@ -1,0 +1,5 @@
+"""about anonymized-tokenizer's src package"""
+__project__ = "src"
+__author__ = "anonymized"
+__version__ = "1.0.0"
+__license__ = "anonymized"
